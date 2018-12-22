@@ -1,4 +1,6 @@
 
+
+// This function call when player press the sumbit button .
 function makeGrid() {
   // Select size input
   var height = document.getElementById('inputHeight').value;
